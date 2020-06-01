@@ -1,2 +1,2 @@
 # mybasicPractice
-Simple Html Page
+Simple Html Page practice
